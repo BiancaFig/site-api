@@ -15,7 +15,3 @@ Este é um projeto simples de previsão do tempo feito com HTML, CSS e JavaScrip
 - CSS3
 - JavaScript
 - API Open-Meteo 
-
-## Autores
-
-Bianca 😊
